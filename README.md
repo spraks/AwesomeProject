@@ -1,3 +1,3 @@
 To test bitrise pipeline
 
-Build trigger test 
+Build trigger test
