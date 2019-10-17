@@ -1,4 +1,4 @@
-package com.awesomeproject;
+package com.DigitalDevOps.uk;
 
 import android.app.Application;
 import android.content.Context;
